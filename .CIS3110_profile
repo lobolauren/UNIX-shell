@@ -1,0 +1,2 @@
+export PATH=/usr/bin:/bin:$HOME
+export HOME=/home/undergrad/2/lobol
